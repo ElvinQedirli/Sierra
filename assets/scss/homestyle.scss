@@ -822,7 +822,13 @@ body{
                 .feature_card_box{
                     .card_container{
                         .card{
-                            margin-left: 30px;
+                            width: 100%;
+                            h4{
+                                font-size: 50px!important;
+                            }
+                            p{
+                                font-size: 25px!important;
+                            }
                         }
                     }
                 }
@@ -906,7 +912,13 @@ body{
             .feature_card_box{
                 .card_container{
                     .card{
-                        margin-left: 70px!important;
+                        width: 100%;
+                        h4{
+                            font-size: 50px!important;
+                        }
+                        p{
+                            font-size: 25px!important;
+                        }
                     }
                 }
             }
